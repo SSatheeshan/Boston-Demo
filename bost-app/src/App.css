@@ -1,18 +1,13 @@
-
-.navbar-text
-{
-  color: white;
+.navbar-text {
+  color: violet;
   text-indent: 21em;
   background: crimson;
   font-size: 29px;
   text-decoration: none;
 }
-.navbar-text:hover
-{
+.navbar-text:hover {
   color: white;
 }
-.navbar
-{
+.navbar {
   padding-top: 0em;
 }
-
